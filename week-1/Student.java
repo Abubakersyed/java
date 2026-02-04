@@ -25,9 +25,10 @@ public static void main(String[] args)
 {
 Student s1=new Student();
 Student s2=new Student();
-s1.getData(1,"Motu","CSE",99);
-s2.getData(2,"Patlu","CSE",100);
+s1.getData(1,"ABC","CSE",99);
+s2.getData(2,"XYZ","CSE",100);
 s1.display();
 s2.display();
 }
 }
+
